@@ -2,4 +2,6 @@
 
 ## Summary
 
+Simple project with a struture of a basic card with HTML and CSS.
+
 **Project launched:**
